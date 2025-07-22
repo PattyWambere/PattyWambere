@@ -2,15 +2,6 @@
 <h1 align="center">Hi there 👋, I'm NIYIGENA Patrick</h1>
 <h3 align="center">ICT Student | Full-Stack Developer | AI & USSD Enthusiast | Graphic Designer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niyigena-patrick&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
-<!-- Optional banner (upload to your repo or use external image) -->
-<p align="center">
-  <img src="https://i.imgur.com/ZdZ3nYw.png" alt="Banner" width="80%">
-</p>
-
 ---
 
 ### 💻 About Me
