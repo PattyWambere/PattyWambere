@@ -77,14 +77,6 @@ Send me a message — let's build something impactful!
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niyigena-patrick&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyigena-patrick&layout=compact&theme=radical" width="48%" />
-</p>
-
----
 
 ### 🌍 Connect With Me
 
